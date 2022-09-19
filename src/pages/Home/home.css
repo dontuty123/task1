@@ -1,0 +1,46 @@
+.homeContainer{
+    min-width: 100vh;
+    background-color: #000;
+}
+
+.homeSlide{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.homeSlideCover{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size: 100px;
+    margin-top: -20px;
+}
+
+.homeSlideDesc{
+    width: 40%;
+    text-align: center;
+    color: #fff;
+}
+
+.homeWorkWidget{
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+.homeWorkWidgetTitle{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 34px;
+    font-weight: 600;
+    margin-bottom: 60px;
+}

@@ -1,0 +1,63 @@
+.Footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.Footer span{
+    font-weight: 600;
+    font-size: 48px;
+    text-align: center;
+}
+
+.Footer h1{
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Footer h2{
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.FooterLink{
+    margin-top: 70px;
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.FooterLink span{
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.FooterCreatives{
+    background-color: #fff;
+    width: 88%;
+    display: flex;
+    margin-top: 100px;
+    padding-top: 0px;padding-bottom: 20px;
+    justify-content: space-between;
+    padding-left: 6%;padding-right: 6%;
+}
+
+.FooterCreatives h2{
+    color: black;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 40px;
+
+}
+
+.FooterCreatives div{
+    text-align: right;
+    display: flex;
+    color: black;
+}

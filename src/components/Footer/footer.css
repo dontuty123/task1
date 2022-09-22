@@ -36,6 +36,7 @@
 .FooterLink span{
     font-size: 26px;
     font-weight: 300;
+    cursor: pointer;
 }
 
 .FooterCreatives{
